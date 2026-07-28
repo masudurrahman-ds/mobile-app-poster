@@ -1,0 +1,6 @@
+@media (max-width:640px){
+  .navlinks{display:none;}
+  section.topic{padding:24px 20px;}
+  .viz-row{flex-direction:column;}
+  .bar-label{width:90px;flex:0 0 90px;font-size:11px;}
+}
