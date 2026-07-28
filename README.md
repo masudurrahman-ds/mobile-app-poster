@@ -1,37 +1,106 @@
-# Mobile Application and Development — Companion Website
+# 📱 Mobile Application and Development
+### Interactive Companion Website for Poster Presentation
 
-Interactive companion website for **The Crown Council**'s poster presentation, CSE Batch D-86, Dhaka International University.
+![GitHub](https://img.shields.io/badge/Status-Completed-success)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
-Course: Mobile Application and Development (0613-109)
-Instructor: Md Fazle Rabbi Rizon, Lecturer, DIU
+---
 
-## Structure
+## 📖 Overview
+
+This project is an interactive companion website developed for the **Mobile Application and Development** course at **Dhaka International University (DIU)**.
+
+Instead of presenting information only on a printed poster, this website allows visitors to explore the topic through interactive visualizations, animations, expandable learning sections, real-world case studies, statistics, and practical examples.
+
+---
+
+## ✨ Features
+
+- 📱 13 comprehensive learning sections
+- 📊 Interactive charts and animated statistics
+- 🔍 Expandable "Go Deeper" panels
+- 💻 Code comparison (Flutter, React Native & Swift)
+- 💰 Mobile app development cost calculator
+- 📈 Development lifecycle visualization
+- 🔒 Mobile security case studies
+- 📚 Historical timeline of mobile applications
+- 🌙 Dark / Light theme
+- 📱 Responsive design
+- ⚡ Smooth scrolling and animations
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- SVG Graphics
+- Responsive Web Design
+
+---
+
+## 📂 Project Structure
 
 ```
+mobile-app-poster/
+│
 ├── index.html
 ├── css/
-│   ├── style.css        (main styles, animations, components)
-│   └── responsive.css   (mobile breakpoint overrides)
+│   ├── style.css
+│   └── responsive.css
 ├── js/
-│   └── script.js        (scroll effects, carousel, calculator, charts, theme toggle)
+│   └── script.js
 ├── assets/
-│   ├── icons/qr.png
-│   ├── images/logo.png  (CSE DIU department crest)
-│   └── team/            (member photos)
+│   ├── images/
+│   ├── icons/
+│   └── team/
 └── README.md
 ```
 
-Historical photos (IBM Simon, DynaTAC, first iPhone, Android robot) are loaded live from Wikimedia Commons and are not stored in this repo — see the Evolution section for full credits and licenses.
+---
 
-## Hosting
+## 🌐 Live Website
 
-Push this folder to a GitHub repo and enable **GitHub Pages** (Settings → Pages → Deploy from branch), or drag the folder into **Netlify Drop** for an instant live link.
+👉 https://masudurrahman-ds.github.io/mobile-app-poster/
 
-## Status
+---
 
-- ✅ Expandable "Go Deeper" cards with reading time
-- ✅ Scroll-based lifecycle tracker + completion percentage
-- ✅ Dark/light theme toggle
-- ✅ Full footer with GitHub link, references, and purpose statement
-- 🔧 Interactive poster click-map — in progress
-- 🔧 Live tappable phone demo — in progress
+## 👥 Team
+
+**The Crown Council**
+
+Department of Computer Science & Engineering  
+Dhaka International University
+
+---
+
+## 👨‍🏫 Course Information
+
+**Course:** Mobile Application and Development (0613-109)
+
+**Instructor:**  
+Md. Fazle Rabbi Rizon  
+Lecturer  
+Department of Computer Science & Engineering  
+Dhaka International University
+
+---
+
+## 📜 License
+
+This project was developed for educational purposes.
+
+Historical images are credited to Wikimedia Commons under their respective licenses.
+
+---
+
+## ⭐ Acknowledgements
+
+Special thanks to the Department of Computer Science & Engineering, Dhaka International University, for providing the opportunity to develop this interactive educational project.
+
+---
+
+© 2026 The Crown Council
